@@ -23,6 +23,14 @@ Second, I created a new dataframe just to showcase animation movies with their t
 Third, I created a new dataframe that showcased the number of regions with the lowest average votes, and to make it easier to read I've ordered the data in asecnding order. This data is also filtered by having at least thirty movies aired in a given region as per our client's request.
 ## Exploratory Data Analysis
 These visualizations will help to support our three business recommendations. From these visualizations we can determine the best runtime in minutes, which animation movie genre typically performs the best, and which global regions we should avoid airing movies in based on vote count.
+
+![image](https://github.com/justinnllee/Movie-Studio-Analysis/assets/63434512/9b09a8ab-64a0-4d2b-9de3-33a46a26688e)
+
+![image](https://github.com/justinnllee/Movie-Studio-Analysis/assets/63434512/e66e0934-c685-428b-a9c3-3761ee946334)
+
+![image](https://github.com/justinnllee/Movie-Studio-Analysis/assets/63434512/804b6422-6c8d-4da5-be57-1611985a5273)
+
+
 ## Conclusion
 This analysis leads me to three recommendations for Electronic Arts (EA) to enter the movie creation space.
 
